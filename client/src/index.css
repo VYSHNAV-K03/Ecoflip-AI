@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .App {
+    min-height: 100vh;
+    position: relative;
+    padding-bottom: 80px; /* Height of the footer */
+  }
+  
+  main {
+    padding-bottom: 80px; /* Height of the footer */
+  }
